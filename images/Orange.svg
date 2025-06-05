@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Orange" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 369.82 369.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #faa446;
+      }
+
+      .cls-2 {
+        fill: #522b0f;
+      }
+
+      .cls-3 {
+        fill: #f3bd94;
+      }
+
+      .cls-4 {
+        fill: #aa6127;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="orange-shadow">
+    <circle class="cls-4" cx="184.91" cy="184.91" r="184.41"/>
+  </g>
+  <g id="orange-mid">
+    <circle class="cls-1" cx="187.4" cy="179.96" r="179.46"/>
+  </g>
+  <g id="orange-light">
+    <path class="cls-3" d="M308.49,85.34c0,31.39-24.25,48.84-54.16,48.84s-54.16-17.45-54.16-48.84,24.25-48.84,54.16-48.84,54.16,17.45,54.16,48.84Z"/>
+  </g>
+  <g id="orange-stem">
+    <path class="cls-2" d="M176.23,36.53c6.15,8.65-14.2-19.96-14.2-19.96l18.7-5.29"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Grape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 404.52 409.36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #290f18;
+      }
+
+      .cls-2 {
+        fill: #544da0;
+      }
+
+      .cls-3 {
+        fill: #4d3996;
+      }
+
+      .cls-4 {
+        fill: #705fa9;
+      }
+    </style>
+  </defs>
+  <g id="grape-bottom">
+    <circle class="cls-4" cx="170.72" cy="333.79" r="66.2"/>
+  </g>
+  <g id="grape-mid">
+    <circle class="cls-2" cx="121.39" cy="251.47" r="66.2"/>
+    <circle class="cls-2" cx="220.05" cy="251.47" r="66.2"/>
+  </g>
+  <g id="grape-stem">
+    <path class="cls-1" d="M176.32,109.55L108.11,10.28h16.44s30.45,68.21,51.76,99.26Z"/>
+  </g>
+  <g id="grape-top">
+    <ellipse class="cls-3" cx="77.66" cy="151.43" rx="71.8" ry="69.75"/>
+    <ellipse class="cls-3" cx="176.32" cy="151.43" rx="71.8" ry="69.75"/>
+    <ellipse class="cls-3" cx="274.97" cy="151.43" rx="71.8" ry="69.75"/>
+  </g>
+</svg>
