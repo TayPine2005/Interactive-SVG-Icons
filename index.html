@@ -3,20 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Week 2 - Media Queries/Breakpoints</title>
+    <title>Interactive SVG Icons</title>
     <!-- Google Fonts go here -->
     <link rel="stylesheet" href="css/main.css" type="text/css" media="screen">
 </head>
 <body>
     <header>
-        <nav></nav>
+        <h1 class="hidden">SVG Icon Interactivity</h1>
+        <section id="header-info">
+            <h2>SWERVE Flavours</h2>
+            <p>Pick a flavour for more info!</p>
+        </section>
     </header>
-    <main class=grid-con>
+
+    <section id="icon-container">
+        <h3 class="hidden">List of Flavours</h3>
+            <div>
+                <object class="icon spin" data="images/Banana.svg" type="image/svg+xml"></object>
+                <p>Beautiful Banana</p>
+            </div>
+
+            <div>
+                <object class="icon wiggle" data="images/Grape.svg" type="image/svg+xml"></object>
+                <p>Great Grape</p>
+            </div>
+
+            <div>
+                <object class="icon jump" data="images/Orange.svg" type="image/svg+xml"></object>
+                <p>Original Orange</p>
+            </div>
+
+            <div>
+                <object class="icon shake" data="images/Peach.svg" type="image/svg+xml"></object>
+                <p>Perfect Peach</p>
+            </div>
+
+            <div>
+                <object data="images/Watermelon.svg" type="image/svg+xml"></object>
+                <p>Wonderful Watermelon</p>
+            </div>
+
+            <div>
+                <object data="images/Water.svg" type="image/svg+xml"></object>
+                <p>Water.</p>
+            </div>
+    </section>
+    <main>
 
     </main>
     <footer>
 
     </footer>
-    <script> src="js/main.js"</script>
+    <script src="js/main.js"> </script>
 </body>
 </html>
